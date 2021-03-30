@@ -7,5 +7,3 @@ test the branch
 new test
 ca 1800s
 =======
-new test ca 1800s
->>>>>>> master
