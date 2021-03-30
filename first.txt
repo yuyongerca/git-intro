@@ -3,5 +3,9 @@ our best thoughts came from others.
 -Letters and Social Aims. Quotation and Originality. Ralph Waldo Emreson. 
 it isn't what we say or think that defines us, but what we do.
 test the branch
+<<<<<<< HEAD
 new test
 ca 1800s
+=======
+new test ca 1800s
+>>>>>>> master
